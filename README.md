@@ -57,25 +57,12 @@
 > **تکنولوژی:** HTML، CSS
 
 ---
-
-## 📊 آمار گیت‌هاب
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=fatemehdev-dev&show_icons=true&theme=default&hide_border=true&bg_color=FAF7F2&title_color=C9A87C&icon_color=C9A87C&text_color=1A1A1A)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fatemehdev-dev&layout=compact&hide_border=true&bg_color=FAF7F2&title_color=C9A87C&text_color=1A1A1A)
-
-</div>
-
----
-
 ## 📫 راه‌های ارتباطی
 
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/fatemehdev-dev)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/[fate.medev])
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/[fate.mehdev])
 </div>
 
 ---
