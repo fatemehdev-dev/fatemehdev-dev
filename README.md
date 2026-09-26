@@ -1,16 +1,93 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**fatemehdev-dev/fatemehdev-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 سلام، من فاطمه‌ام
 
-Here are some ideas to get you started:
+### 💻 توسعه‌دهنده فرانت‌اند | 🎨 طراح UI/UX
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br>
+
+ایده‌هات رو به واقعیت تبدیل می‌کنم — با کد، طراحی و یه عالمه پشتکار.
+
+<br>
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+</div>
+
+---
+
+## 🚀 درباره من
+
+- 💻 توسعه‌دهنده فرانت‌اند با تمرکز روی **طراحی ریسپانسیو** و **تجربه کاربری**
+- 🎨 عاشق طراحی‌های مینیمال، تمیز و کاربردی
+- 📱 با گوشی کار می‌کنم — چون محدودیت ابزار، محدودیت توانایی نیست
+- 🌱 در حال یادگیری **JavaScript پیشرفته** و **وردپرس**
+- 💡 همیشه در حال یادگیری، ساختن و بهتر شدن
+
+---
+
+## 🛠️ مهارت‌ها
+
+<div align="center">
+
+| تکنولوژی | سطح |
+|:---:|:---:|
+| HTML5 | ⭐⭐⭐⭐⭐ |
+| CSS3 (Grid, Flexbox, Animation) | ⭐⭐⭐⭐⭐ |
+| JavaScript | ⭐⭐⭐ |
+| Responsive Design | ⭐⭐⭐⭐⭐ |
+| UI/UX Design | ⭐⭐⭐⭐ |
+| Git & GitHub | ⭐⭐ |
+| WordPress | 🌱 در حال یادگیری |
+
+</div>
+
+---
+
+## 📂 پروژه‌های من
+
+### 🛍️ [استایلا — فروشگاه اینترنتی لباس](https://github.com/fatemehdev-dev/fashion-shop)
+> فروشگاه لباس با طراحی طاقچه‌ای، انیمیشن‌های نرم و کاملاً ریسپانسیو  
+> **تکنولوژی:** HTML، CSS، JavaScript
+
+### 🎨 [Portfolio — پرتفولیوی طراح سه‌بعدی](https://github.com/fatemehdev-dev/portfolio)
+> طراحی و پیاده‌سازی وب‌سایت پرتفولیو برای طراح سه‌بعدی  
+> **تکنولوژی:** HTML، CSS
+
+---
+
+## 📊 آمار گیت‌هاب
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=fatemehdev-dev&show_icons=true&theme=default&hide_border=true&bg_color=FAF7F2&title_color=C9A87C&icon_color=C9A87C&text_color=1A1A1A)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fatemehdev-dev&layout=compact&hide_border=true&bg_color=FAF7F2&title_color=C9A87C&text_color=1A1A1A)
+
+</div>
+
+---
+
+## 📫 راه‌های ارتباطی
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/fatemehdev-dev)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/[fate.medev])
+</div>
+
+---
+
+<div align="center">
+
+### 💭 نقل قول مورد علاقه‌ام
+
+> «محدودیت ابزار، محدودیت توانایی نیست.»
+
+<br>
+
+⭐ اگه پروژه‌هام رو دوست داشتی، یه ستاره بده!
+
+</div>
