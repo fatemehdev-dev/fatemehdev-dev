@@ -1,40 +1,57 @@
+# Hi, I'm Fatemeh 👋
 
-UI Designer & Front-End Developer
+### UI Designer & Front-End Developer
 
-I design modern, responsive interfaces and bring them to life with front-end technologies.
+I design modern, responsive interfaces and bring them to life with code.
 
-🎨 What I Do
+---
+
+## 🎨 What I Do
 
 - UI Design
 - Responsive Web Design
 - Front-End Development
 - Interactive Web Experiences
 
-🛠️ Technologies
+## 🛠️ Tech Stack
 
-- HTML5
-- CSS3
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,git,github" />
+</p>
+
+## 🌱 Currently Learning
+
 - JavaScript
-- Git & GitHub
+- UI/UX Design
+- Modern Front-End Development
 
-🌱 Currently Learning
+## 🚀 Featured Projects
 
-I'm currently improving my JavaScript skills and exploring modern UI/UX practices and front-end development.
+### 🛍️ Fashion Shop
 
-🚀 Featured Projects
+A responsive clothing e-commerce website focused on modern UI,
+responsive layouts and interactive front-end elements.
 
-🛍️ Fashion Shop
-
-A responsive clothing e-commerce website built with HTML, CSS and JavaScript.
-
-🎨 Portfolio Website
-
-A portfolio website designed and developed for a 3D artist using HTML and CSS.
-
-🌐 Portfolio
-
-"Visit my portfolio" (https://fatemehdev-dev.github.io/portfolio/)
+**Built with:** HTML · CSS · JavaScript
 
 ---
 
-«Designing with purpose. Building with code. ✨»
+### 🎨 Portfolio Website
+
+A responsive portfolio website designed and developed for a 3D artist.
+
+**Built with:** HTML · CSS
+
+---
+
+## 🌐 Connect With Me
+
+**Portfolio:**  
+[fatemehdev-dev.github.io/portfolio](https://fatemehdev-dev.github.io/portfolio/)
+
+**Instagram:**  
+[@fate.mehdev](https://instagram.com/fate.mehdev)
+
+---
+
+> Designing with purpose. Building with code. ✨
