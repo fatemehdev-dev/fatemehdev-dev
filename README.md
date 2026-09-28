@@ -1,79 +1,41 @@
-<div align="center">
+Hi, I'm Fatemeh 
 
-# من فاطمه‌ام
+UI Designer & Front-End Developer
 
-### 💻 توسعه‌دهنده فرانت‌اند | 🎨 طراح UI/UX
+I design modern, responsive interfaces and bring them to life with front-end technologies.
 
-<br>
+🎨 What I Do
 
-ایده‌هات رو به واقعیت تبدیل می‌کنم — با کد، طراحی و یه عالمه پشتکار.
+- UI Design
+- Responsive Web Design
+- Front-End Development
+- Interactive Web Experiences
 
-<br>
+🛠️ Technologies
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+- HTML5
+- CSS3
+- JavaScript
+- Git & GitHub
 
-</div>
+🌱 Currently Learning
 
----
+I'm currently improving my JavaScript skills and exploring modern UI/UX practices and front-end development.
 
-## 🚀 درباره من
+🚀 Featured Projects
 
-- 💻 توسعه‌دهنده فرانت‌اند با تمرکز روی **طراحی ریسپانسیو** و **تجربه کاربری**
-- 🎨 عاشق طراحی‌های مینیمال، تمیز و کاربردی ام
-- 🌱 در حال یادگیری **JavaScript پیشرفته** و **وردپرس**
-- 💡 همیشه در حال یادگیری، ساختن و بهتر شدن
+🛍️ Fashion Shop
 
----
+A responsive clothing e-commerce website built with HTML, CSS and JavaScript.
 
-## 🛠️ مهارت‌ها
+🎨 Portfolio Website
 
-<div align="center">
+A portfolio website designed and developed for a 3D artist using HTML and CSS.
 
-| تکنولوژی | سطح |
-|:---:|:---:|
-| HTML5 | ⭐⭐⭐⭐⭐ |
-| CSS3 (Grid, Flexbox, Animation) | ⭐⭐⭐⭐⭐ |
-| JavaScript | ⭐⭐⭐ |
-| Responsive Design | ⭐⭐⭐⭐⭐ |
-| UI/UX Design | ⭐⭐⭐⭐ |
-| Git & GitHub | ⭐⭐ |
-| WordPress | 🌱 در حال یادگیری |
+🌐 Portfolio
 
-</div>
+"Visit my portfolio" (https://fatemehdev-dev.github.io/portfolio/)
 
 ---
 
-## 📂 پروژه‌های من
-
-### 🛍️ [استایلا — فروشگاه اینترنتی لباس](https://github.com/fatemehdev-dev/fashion-shop)
-> فروشگاه لباس با طراحی طاقچه‌ای، انیمیشن‌های نرم و کاملاً ریسپانسیو  
-> **تکنولوژی:** HTML، CSS، JavaScript
-
-### 🎨 [Portfolio — پرتفولیوی طراح سه‌بعدی](https://github.com/fatemehdev-dev/portfolio)
-> طراحی و پیاده‌سازی وب‌سایت پرتفولیو برای طراح سه‌بعدی  
-> **تکنولوژی:** HTML، CSS
-
----
-## 📫 راه‌های ارتباطی
-
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/fatemehdev-dev)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/[fate.mehdev])
-</div>
-
----
-
-<div align="center">
-
-### 💭 نقل قول مورد علاقه‌ام
-
-> «محدودیت ابزار، محدودیت توانایی نیست.»
-
-<br>
-
-⭐ اگه پروژه‌هام رو دوست داشتی، یه ستاره بده!
-
-</div>
+«Designing with purpose. Building with code. ✨»
