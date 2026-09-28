@@ -1,4 +1,3 @@
-Hi, I'm Fatemeh 
 
 UI Designer & Front-End Developer
 
