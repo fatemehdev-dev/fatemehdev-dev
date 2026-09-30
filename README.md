@@ -1,6 +1,6 @@
-# Hi, I'm Fatemeh 👋
+# Hi, I'm Fatemeh 
 
-### UI Designer & Front-End Developer
+### Front-End Developer
 
 I design modern, responsive interfaces and bring them to life with code.
 
@@ -8,7 +8,7 @@ I design modern, responsive interfaces and bring them to life with code.
 
 ## 🎨 What I Do
 
-- UI Design
+- UI UX Design
 - Responsive Web Design
 - Front-End Development
 - Interactive Web Experiences
