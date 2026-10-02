@@ -1,6 +1,6 @@
 # Hi, I'm Fatemeh 
 
-### Front-End Developer
+### Front-End designer 
 
 I design modern, responsive interfaces and bring them to life with code.
 
