@@ -21,7 +21,7 @@ I design modern, responsive interfaces and bring them to life with code.
 
 ## 🌱 Currently Learning
 
-- JavaScript
+- typescript 
 - UI/UX Design
 - Modern Front-End Development
 
