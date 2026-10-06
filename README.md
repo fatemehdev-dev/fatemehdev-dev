@@ -16,14 +16,8 @@ I design modern, responsive interfaces and bring them to life with code.
 ## 🛠️ Tech Stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,git,github" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,github" />
 </p>
-
-## 🌱 Currently Learning
-
-- typescript 
-- UI/UX Design
-- Modern Front-End Development
 
 ## 🚀 Featured Projects
 
