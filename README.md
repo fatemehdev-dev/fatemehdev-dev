@@ -40,8 +40,8 @@ A responsive portfolio website designed and developed for a 3D artist.
 
 ## 🌐 Connect With Me
 
-**Portfolio:**  
-[t.me/Hwi38wj](@Hwi38wj)
+**Telegram:**  
+[@Hwi38wj](t.me/Hwi38wj)
 
 **Instagram:**  
 [@fate.mehdev](https://instagram.com/fate.mehdev)
