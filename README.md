@@ -1,4 +1,4 @@
-# Hi, I'm Fatemeh 👋
+# Hi, I'm Fatemeh 
 
 ### Front-End Designer
 
@@ -50,7 +50,7 @@ A responsive portfolio website designed and developed for a 3D artist.
 <p align="center">
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fatemehdev&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="80%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fatemehdev&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="100%" />
 </p>
 
 <p align="center">
