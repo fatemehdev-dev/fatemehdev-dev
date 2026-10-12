@@ -47,24 +47,15 @@ A responsive portfolio website designed and developed for a 3D artist.
 
 <h3 align="center">📊 my activities on GitHub</h3>
 <p align="center">
-  <!-- کارت آمار کلی (کامیت‌ها، استارها و...) -->
-  <img src="https://github-readme-stats.vercel.app/api?username=fatemehdev&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="48%" />
   
-  <!-- کارت زبان‌های پرکاربرد -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fatemehdev&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
-</p>
+  <img src="https://github-readme-stats.vercel.app/api?username=fatemehdev&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="48%" />
 
-<!-- کارت استریک (روزهای پیوسته فعالیت) -->
+
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=fatemehdev&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="80%" />
 </p>
 
-<!-- جام‌های افتخار (Trophies) -->
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=fatemehdev&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" alt="GitHub Trophies" />
-</p>
 
-<!-- شمارنده بازدیدکنندگان پروفایل -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=fatemehdev&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
 </p>
