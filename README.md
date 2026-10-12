@@ -20,7 +20,7 @@ I design modern, responsive interfaces and bring them to life with code.
 
 ## 🚀 Featured Projects
 
-### 🛍️ <a href="لینک-گیت-هاب-پروژه-فشن-شاپ">Fashion Shop</a>
+### 🛍️ <p>Fashion Shop</p>
 
 A responsive clothing e-commerce website focused on modern UI,
 responsive layouts and interactive front-end elements.
@@ -29,7 +29,7 @@ responsive layouts and interactive front-end elements.
 
 ---
 
-### 🎨 <a href="لینک-گیت-هاب-پروژه-پورتفولیو">Portfolio Website</a>
+### 🎨 <a href="https://mahdyarqzv005-byte.github.io/MgArts/">Portfolio Website</a>
 
 A responsive portfolio website designed and developed for a 3D artist.
 
@@ -47,7 +47,6 @@ A responsive portfolio website designed and developed for a 3D artist.
 
 <br>
 
-<h3 align="center">📊 آمار و فعالیت‌های من در گیت‌هاب</h3>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=fatemehdev&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fatemehdev&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
