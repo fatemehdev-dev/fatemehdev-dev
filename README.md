@@ -7,7 +7,7 @@ I design modern, responsive interfaces and bring them to life with code.
 ---
 
 <p align="center">
-  <img src="avatar.png" width="500" alt="Fatemeh Coding" />
+  <img src="assets/avatar.png" width="500" alt="Fatemeh Coding" />
 </p>
     
 
