@@ -1,15 +1,16 @@
-# Hi, I'm Fatemeh 
+# Hi, I'm Fatemeh 👋
 
-### Front-End designer 
+### Front-End Designer
 
 I design modern, responsive interfaces and bring them to life with code.
 
 ---
 
 <p align="center">
-  <img src="assets/avatar.png" width="500" alt="Fatemeh Coding" />
+  <img src="avatar.png" width="500" alt="Fatemeh Coding" />
 </p>
-    
+
+<br>
 
 ## 🛠️ Tech Stack
 
@@ -19,7 +20,7 @@ I design modern, responsive interfaces and bring them to life with code.
 
 ## 🚀 Featured Projects
 
-### 🛍️ Fashion Shop
+### 🛍️ <a href="لینک-گیت-هاب-پروژه-فشن-شاپ">Fashion Shop</a>
 
 A responsive clothing e-commerce website focused on modern UI,
 responsive layouts and interactive front-end elements.
@@ -28,7 +29,7 @@ responsive layouts and interactive front-end elements.
 
 ---
 
-### 🎨 Portfolio Website
+### 🎨 <a href="لینک-گیت-هاب-پروژه-پورتفولیو">Portfolio Website</a>
 
 A responsive portfolio website designed and developed for a 3D artist.
 
@@ -44,16 +45,17 @@ A responsive portfolio website designed and developed for a 3D artist.
 **Instagram:**  
 [@fate.mehdev](https://instagram.com/fate.mehdev)
 
+<br>
 
-<h3 align="center">📊 my activities on GitHub</h3>
+<h3 align="center">📊 آمار و فعالیت‌های من در گیت‌هاب</h3>
 <p align="center">
-  
-
+  <img src="https://github-readme-stats.vercel.app/api?username=fatemehdev&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fatemehdev&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
+</p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=fatemehdev&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="80%" />
 </p>
-
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=fatemehdev&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
