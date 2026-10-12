@@ -45,7 +45,7 @@ A responsive portfolio website designed and developed for a 3D artist.
 [@fate.mehdev](https://instagram.com/fate.mehdev)
 
 
-<h3 align="center">📊 آمار و فعالیت‌های من در گیت‌هاب</h3>
+<h3 align="center">📊 my activities on GitHub</h3>
 <p align="center">
   <!-- کارت آمار کلی (کامیت‌ها، استارها و...) -->
   <img src="https://github-readme-stats.vercel.app/api?username=fatemehdev&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="48%" />
