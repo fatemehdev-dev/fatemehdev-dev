@@ -9,7 +9,7 @@ I design modern, responsive interfaces and bring them to life with code.
 <table>
   <tr>
     <td width="40%" align="center">
-      <img src="avatar.png" width="100%" alt="Fatemeh Coding" />
+      <img src="assets/avatar.png" width="100%" alt="Fatemeh Coding" />
     </td>
     <td width="60%">
       <h3>👩‍💻 درباره من</h3>
@@ -26,7 +26,7 @@ I design modern, responsive interfaces and bring them to life with code.
 ## 🛠️ Tech Stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,Tailwind,js,github" />
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,github" />
 </p>
 
 ## 🚀 Featured Projects
