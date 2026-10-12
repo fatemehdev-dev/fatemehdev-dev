@@ -6,17 +6,27 @@ I design modern, responsive interfaces and bring them to life with code.
 
 ---
 
-## 🎨 What I Do
-
-- UI UX Design
-- Responsive Web Design
-- Front-End Development
-- Interactive Web Experiences
+<table>
+  <tr>
+    <td width="40%" align="center">
+      <img src="avatar.png" width="100%" alt="Fatemeh Coding" />
+    </td>
+    <td width="60%">
+      <h3>👩‍💻 درباره من</h3>
+      <p>
+        سلام! من فاطمه هستم، یک طراح و توسعه‌دهنده فرانت‌اند. عاشق ساختن رابط‌های کاربری مدرن و ریسپانسیو هستم و همیشه در حال یادگیری تکنولوژی‌های جدید.
+      </p>
+      <p>
+        💻 <b>مهارت‌ها:</b> HTML, CSS, JavaScript, Tailwind
+      </p>
+    </td>
+  </tr>
+</table>
 
 ## 🛠️ Tech Stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,github" />
+  <img src="https://skillicons.dev/icons?i=html,css,Tailwind,js,github" />
 </p>
 
 ## 🚀 Featured Projects
@@ -46,7 +56,7 @@ A responsive portfolio website designed and developed for a 3D artist.
 **Instagram:**  
 [@fate.mehdev](https://instagram.com/fate.mehdev)
 
-<!-- بخش آمار گیت‌هاب -->
+
 <h3 align="center">📊 آمار و فعالیت‌های من در گیت‌هاب</h3>
 <p align="center">
   <!-- کارت آمار کلی (کامیت‌ها، استارها و...) -->
