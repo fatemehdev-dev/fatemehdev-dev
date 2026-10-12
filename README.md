@@ -1,4 +1,4 @@
-# Hi, I'm Fatemeh 
+# Hi, I'm Fatemeh 👋
 
 ### Front-End Designer
 
@@ -20,7 +20,7 @@ I design modern, responsive interfaces and bring them to life with code.
 
 ## 🚀 Featured Projects
 
-### 🛍️ <p>Fashion Shop</p>
+### 🛍️ Fashion Shop
 
 A responsive clothing e-commerce website focused on modern UI,
 responsive layouts and interactive front-end elements.
@@ -47,13 +47,15 @@ A responsive portfolio website designed and developed for a 3D artist.
 
 <br>
 
-
+<h3 align="center">📊 آمار و فعالیت‌های من در گیت‌هاب</h3>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=fatemehdev&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fatemehdev&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
 </p>
+
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fatemehdev&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="100%" />
+  <!-- آدرس جدید و درست Streak -->
+  <img src="https://streak-stats.demolab.com/?user=fatemehdev&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="100%" />
 </p>
 
 <p align="center">
