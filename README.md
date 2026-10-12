@@ -6,22 +6,11 @@ I design modern, responsive interfaces and bring them to life with code.
 
 ---
 
-<table>
-  <tr>
-    <td width="40%" align="center">
+      <div>
       <img src="assets/avatar.png" width="100%" alt="Fatemeh Coding" />
-    </td>
-    <td width="60%">
-      <h3>👩‍💻 درباره من</h3>
-      <p>
-        سلام! من فاطمه ام، طراح فرانت‌اند. عاشق ساختن رابط‌های کاربری مدرن و ریسپانسیوم و همیشه در حال یادگیری تکنولوژی‌های جدیدم
-      </p>
-      <p>
-        💻 <b>مهارت‌ها:</b> HTML, CSS, JavaScript, Tailwind
-      </p>
-    </td>
-  </tr>
-</table>
+    
+      <div/>
+    
 
 ## 🛠️ Tech Stack
 
