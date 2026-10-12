@@ -6,10 +6,10 @@ I design modern, responsive interfaces and bring them to life with code.
 
 ---
 
-      <div>
+      <p>
       <img src="assets/avatar.png" width="100%" alt="Fatemeh Coding" />
     
-      <div/>
+      <p/>
     
 
 ## 🛠️ Tech Stack
