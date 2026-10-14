@@ -1,8 +1,8 @@
 <div align="center">
 
-I'm Fatemeh
+ ## I'm Fatemeh
 
-Front-End Designer
+ Front-End Designer & Developer
 
 <br>
 
@@ -19,23 +19,22 @@ Front-End Designer
 
 
 
-<h1>About Me</h1>
+## About Me
 
-**Front-End Designer** with over a year of designing 
-
+- **Front-End Designer** with over 1.5 years of designing
+  
 -  Building websites with **HTML, CSS & JavaScript**
   
-- I design and code **using my phone**  because tool limitations aren't ability limitations
+-  I design and code **using my phone** — because tool limitations aren't ability limitations
+  
+-  Currently learning **WordPress & deep JavaScript**
+  
+-  My goal: **growing and improving in the web development field**
 
-- Currently learning *WordPress & deep JavaScript*
 
-- My goal: **growing and improving in the web development field**
+## My Sample works
 
-
-
-## My Projects
-
-### Fashion Shop
+### [Fashion Shop]
 
 > A responsive clothing e-commerce website focused on modern UI, responsive layouts and interactive front-end elements.
 > **Status:**  Currently in progress
@@ -44,7 +43,7 @@ Front-End Designer
 
 ---
 
-### [Portfolio Website](https://mahdyarqzv005-byte.github.io/MgArts/)
+###  [Portfolio Website](https://mahdyarqzv005-byte.github.io/MgArts/)
 
 > A responsive portfolio website designed and developed for a 3D artist.
 
@@ -52,10 +51,9 @@ Front-End Designer
 
 ---
 
-## GitHub Stats
-
 <div align="center">
-![Fatemeh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=fatemehdev-dev&show_icons=true&theme=default&hide_border=true&bg_color=faf7f2&title_color=c9a87c&icon_color=c9a87c&text_color=1a1a1a)
+
+![Fatemeh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=fatemehdev-dev&show_icons=true&theme=default&hide_border=true&bg_color=FAF7F2&title_color=C9A87C&icon_color=C9A87C&text_color=1A1A1A)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fatemehdev-dev&layout=compact&hide_border=true&bg_color=FAF7F2&title_color=C9A87C&text_color=1A1A1A)
 
@@ -63,19 +61,11 @@ Front-End Designer
 
 ---
 
- Connect With Me
+# Connect With Me
 
 <div align="center">
 
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Hwi38wj)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/fate.mehdev)
-
-</div>
-
----
-
-<div align="center">
-
- Thanks for visiting my profile!
 
 </div>
