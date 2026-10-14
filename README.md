@@ -35,7 +35,7 @@ Front-End Designer
 
 ## My Projects
 
-### [Fashion Shop](https://github.com/fatemehdev-dev/fashion-shop)
+### Fashion Shop
 
 > A responsive clothing e-commerce website focused on modern UI, responsive layouts and interactive front-end elements.
 > **Status:**  Currently in progress
