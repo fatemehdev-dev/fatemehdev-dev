@@ -47,7 +47,6 @@ A responsive portfolio website designed and developed for a 3D artist.
 
 <br>
 
-<h3 align="center">📊 آمار و فعالیت‌های من در گیت‌هاب</h3>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=fatemehdev&show_icons=true&theme=tokyonight&hide_border=true=3" alt="GitHub Stats" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fatemehdev&layout=compact&theme=tokyonight&hide_border=true=4" alt="Top Languages" width="48%" />
