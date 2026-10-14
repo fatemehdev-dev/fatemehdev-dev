@@ -1,12 +1,12 @@
-# Hi, I'm Fatemeh 
+ Hi, I'm Fatemeh 
 
-### Front-End Designer
+Front-End Designer
 
 I design modern, responsive interfaces and bring them to life with code.
 
 <br>
 
-## My Projects
+ My Projects
 
 ### Fashion Shop
 
@@ -17,7 +17,7 @@ responsive layouts and interactive front-end elements.
 
 ---
 
-### <a href="https://mahdyarqzv005-byte.github.io/MgArts/">Portfolio Website</a>
+ <a href="https://mahdyarqzv005-byte.github.io/MgArts/">Portfolio Website</a>
 
 A responsive portfolio website designed and developed for a 3D artist.
 
