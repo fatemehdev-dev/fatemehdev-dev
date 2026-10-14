@@ -18,9 +18,9 @@ I design modern, responsive interfaces and bring them to life with code.
   <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,github" />
 </p>
 
-## 🚀 Featured Projects
+## Featured Projects
 
-### 🛍️ Fashion Shop
+### Fashion Shop
 
 A responsive clothing e-commerce website focused on modern UI,
 responsive layouts and interactive front-end elements.
@@ -29,7 +29,7 @@ responsive layouts and interactive front-end elements.
 
 ---
 
-### 🎨 <a href="https://mahdyarqzv005-byte.github.io/MgArts/">Portfolio Website</a>
+### <a href="https://mahdyarqzv005-byte.github.io/MgArts/">Portfolio Website</a>
 
 A responsive portfolio website designed and developed for a 3D artist.
 
@@ -37,7 +37,7 @@ A responsive portfolio website designed and developed for a 3D artist.
 
 ---
 
-## 🌐 Connect With Me
+## Connect With Me
 
 **Telegram:**  
 [@Hwi38wj](https://t.me/Hwi38wj)
