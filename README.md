@@ -1,4 +1,4 @@
-# Hi, I'm Fatemeh 👋
+# Hi, I'm Fatemeh 
 
 ### Front-End Designer
 
@@ -44,17 +44,3 @@ A responsive portfolio website designed and developed for a 3D artist.
 
 **Instagram:**  
 [@fate.mehdev](https://instagram.com/fate.mehdev)
-
-<br>
-
-
-<h3 align="center">📊 آمار و فعالیت‌های من</h3>
-<p align="center">
-  <!-- سرویس جایگزین برای آمار کلی -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fatemehdev&theme=tokyonight" alt="GitHub Stats" width="100%" />
-</p>
-<p align="center">
-  <!-- سرویس جایگزین برای زبان‌ها -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=fatemehdev&theme=tokyonight" alt="Top Languages" width="48%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=fatemehdev&theme=tokyonight" alt="Repos per Language" width="48%" />
-</p>
