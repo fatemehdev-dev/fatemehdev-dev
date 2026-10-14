@@ -47,18 +47,14 @@ A responsive portfolio website designed and developed for a 3D artist.
 
 <br>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fatemehdev&show_icons=true&theme=tokyonight&hide_border=true=4" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fatemehdev&layout=compact&theme=tokyonight&hide_border=true=5" alt="Top Languages" width="48%" />
-</p>
 
+<h3 align="center">📊 آمار و فعالیت‌های من</h3>
 <p align="center">
-  <!-- آدرس جدید و درست Streak -->
-  <img src="https://streak-stats.demolab.com/?user=fatemehdev&theme=tokyonight&hide_border=true=4" alt="GitHub Streak" width="100%" />
+  <!-- سرویس جایگزین برای آمار کلی -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fatemehdev&theme=tokyonight" alt="GitHub Stats" width="100%" />
 </p>
-
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=fatemehdev&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
+  <!-- سرویس جایگزین برای زبان‌ها -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=fatemehdev&theme=tokyonight" alt="Top Languages" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=fatemehdev&theme=tokyonight" alt="Repos per Language" width="48%" />
 </p>
-
-> Designing with purpose. Building with code. ✨
