@@ -8,10 +8,11 @@ I design modern, responsive interfaces and bring them to life with code.
 
  My Projects
 
-* Fashion Shop *
+• Fashion Shop 
 
 A responsive clothing e-commerce website focused on modern UI,
 responsive layouts and interactive front-end elements.
+it's currently in making...
 
 **Built with:** HTML · CSS · JavaScript
 
