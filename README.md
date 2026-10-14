@@ -13,7 +13,7 @@ Front-End Designer
 
 <br>
 
-**Turning ideas into clean, responsive & modern web experiences.** ✨
+**Turning ideas into clean, responsive & modern web experiences.** 
 
 </div>
 
@@ -24,8 +24,8 @@ Front-End Designer
 **Front-End Designer** with over a year of hands-on experience
 -  Building websites with **HTML, CSS & JavaScript**
  I design and code **using my phone** — because tool limitations aren't ability limitations
-- 🌱 Currently learning **WordPress **
-- 🎯 My goal: **growing and improving in the web development field**
+- Currently learning **WordPress **
+- My goal: **growing and improving in the web development field**
 
 ---
 
@@ -34,7 +34,7 @@ Front-End Designer
 ### [Fashion Shop](https://github.com/fatemehdev-dev/fashion-shop)
 
 > A responsive clothing e-commerce website focused on modern UI, responsive layouts and interactive front-end elements.
-> **Status:** 🟡 Currently in progress
+> **Status:**  Currently in progress
 
 **Built with:** `HTML` · `CSS` · `JavaScript`
 
@@ -48,7 +48,7 @@ Front-End Designer
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
@@ -60,7 +60,7 @@ Front-End Designer
 
 ---
 
-## 🌐 Connect With Me
+## Connect With Me
 
 <div align="center">
 
@@ -73,6 +73,6 @@ Front-End Designer
 
 <div align="center">
 
-### ⭐ Thanks for visiting my profile!
+### Thanks for visiting my profile!
 
 </div>
