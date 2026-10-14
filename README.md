@@ -55,8 +55,7 @@ Front-End Designer
 ## GitHub Stats
 
 <div align="center">
-
-![Fatemeh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=fatemehdev-dev&show_icons=true&theme=default&hide_border=true&bg_color=FAF7F2&title_color=C9A87C&icon_color=C9A87C&text_color=1A1A1A)
+![Fatemeh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=fatemehdev-dev&show_icons=true&theme=default&hide_border=true&bg_color=1a1a1a&title_color=ffcc00&text_color=ffffff&icon_color=ff3b3b)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fatemehdev-dev&layout=compact&hide_border=true&bg_color=FAF7F2&title_color=C9A87C&text_color=1A1A1A)
 
