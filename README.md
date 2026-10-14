@@ -21,14 +21,14 @@ Front-End Designer
 
 ## About Me
 
-**Front-End Designer** with over a year of hands-on experience
+**Front-End Designer** with over a year of designing 
 
 -  Building websites with **HTML, CSS & JavaScript**
--  
-— I design and code **using my phone**  because tool limitations aren't ability limitations
+  
+- I design and code **using my phone**  because tool limitations aren't ability limitations
 
-- Currently learning **WordPress **
-- 
+- Currently learning *WordPress & deep JavaScript*
+
 - My goal: **growing and improving in the web development field**
 
 ---
