@@ -6,7 +6,7 @@ I design modern, responsive interfaces and bring them to life with code.
 
 <br>
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,github" />
