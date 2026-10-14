@@ -55,7 +55,7 @@ A responsive portfolio website designed and developed for a 3D artist.
 
 <p align="center">
   <!-- آدرس جدید و درست Streak -->
-  <img src="https://streak-stats.demolab.com/?user=fatemehdev&theme=tokyonight&hide_border=true=2" alt="GitHub Streak" width="100%" />
+  <img src="https://streak-stats.demolab.com/?user=fatemehdev&theme=tokyonight&hide_border=true=3" alt="GitHub Streak" width="100%" />
 </p>
 
 <p align="center">
