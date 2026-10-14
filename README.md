@@ -8,7 +8,7 @@ I design modern, responsive interfaces and bring them to life with code.
 
  My Projects
 
-### Fashion Shop
+* Fashion Shop *
 
 A responsive clothing e-commerce website focused on modern UI,
 responsive layouts and interactive front-end elements.
@@ -25,7 +25,7 @@ A responsive portfolio website designed and developed for a 3D artist.
 
 ---
 
-## Connect With Me
+ Connect With Me
 
 **Telegram:**  
 [@Hwi38wj](https://t.me/Hwi38wj)
