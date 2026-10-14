@@ -17,9 +17,9 @@ Front-End Designer
 
 </div>
 
----
 
-## About Me
+
+<h1>About Me</h1>
 
 **Front-End Designer** with over a year of designing 
 
@@ -31,7 +31,7 @@ Front-End Designer
 
 - My goal: **growing and improving in the web development field**
 
----
+
 
 ## My Projects
 
@@ -44,7 +44,7 @@ Front-End Designer
 
 ---
 
-### 🎨 [Portfolio Website](https://mahdyarqzv005-byte.github.io/MgArts/)
+### [Portfolio Website](https://mahdyarqzv005-byte.github.io/MgArts/)
 
 > A responsive portfolio website designed and developed for a 3D artist.
 
@@ -64,7 +64,7 @@ Front-End Designer
 
 ---
 
-## Connect With Me
+ Connect With Me
 
 <div align="center">
 
@@ -77,6 +77,6 @@ Front-End Designer
 
 <div align="center">
 
-### Thanks for visiting my profile!
+ Thanks for visiting my profile!
 
 </div>
