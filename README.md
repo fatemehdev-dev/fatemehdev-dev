@@ -48,13 +48,13 @@ A responsive portfolio website designed and developed for a 3D artist.
 <br>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fatemehdev&show_icons=true&theme=tokyonight&hide_border=true=3" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fatemehdev&layout=compact&theme=tokyonight&hide_border=true=4" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=fatemehdev&show_icons=true&theme=tokyonight&hide_border=true=4" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fatemehdev&layout=compact&theme=tokyonight&hide_border=true=5" alt="Top Languages" width="48%" />
 </p>
 
 <p align="center">
   <!-- آدرس جدید و درست Streak -->
-  <img src="https://streak-stats.demolab.com/?user=fatemehdev&theme=tokyonight&hide_border=true=3" alt="GitHub Streak" width="100%" />
+  <img src="https://streak-stats.demolab.com/?user=fatemehdev&theme=tokyonight&hide_border=true=4" alt="GitHub Streak" width="100%" />
 </p>
 
 <p align="center">
