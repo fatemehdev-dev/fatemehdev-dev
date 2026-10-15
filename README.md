@@ -2,7 +2,7 @@
 
  ## I'm Fatemeh
 
- Front-End Designer & Developer
+ Front-End Designer
 
 <br>
 
@@ -24,8 +24,6 @@
 - **Front-End Designer** with over 1.5 years of designing
   
 -  Building websites with **HTML, CSS & JavaScript**
-  
--  I design and code **using my phone** — because tool limitations aren't ability limitations
   
 -  Currently learning **WordPress & deep JavaScript**
   
@@ -53,7 +51,7 @@
 
 <div align="center">
 
-![Fatemeh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=fatemehdev-dev&show_icons=true=6&theme=default&hide_border=true&bg_color=FAF7F2&title_color=C9A87C&icon_color=C9A87C&text_color=1A1A1A)
+![Fatemeh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=fatemehdev-dev&show_icons=true=7&theme=default&hide_border=true&bg_color=FAF7F2&title_color=C9A87C&icon_color=C9A87C&text_color=1A1A1A)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fatemehdev-dev&layout=compact&hide_border=true&bg_color=FAF7F2&title_color=C9A87C&text_color=1A1A1A)
 
