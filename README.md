@@ -21,7 +21,7 @@
 
 ## About Me
 
-- **Front-End Designer** with over 1.5 years of designing
+- **Front-End Designer** with 1.5 years of designing
   
 -  Building websites with **HTML, CSS & JavaScript**
   
