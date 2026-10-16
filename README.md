@@ -17,25 +17,6 @@
 
 </div>
 
-## My Sample works
-
-### [Fashion Shop]
-
-> A responsive clothing e-commerce website focused on modern UI, responsive layouts and interactive front-end elements.
-> **Status:**  Currently in progress
-
-**Built with:** `HTML` · `CSS` · `JavaScript`
-
----
-
-###  [Portfolio Website](https://mahdyarqzv005-byte.github.io/MgArts/)
-
-> A responsive portfolio website designed and developed for a 3D artist.
-
-**Built with:** `HTML` · `CSS`
-
----
-
 <div align="center">
 
 ![Fatemeh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=fatemehdev-dev&show_icons=true=12&theme=default&hide_border=true&bg_color=FAF7F2&title_color=C9A87C&icon_color=C9A87C&text_color=1A1A1A)
