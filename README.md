@@ -12,7 +12,7 @@
 
 ![Fatemeh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=fatemehdev-dev&show_icons=true=16&theme=default&hide_border=true&bg_color=FAF7F2&title_color=C9A87C&icon_color=C9A87C&text_color=1A1A1A)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fatemehdev-dev&layout=compact&hide_border=true4&bg_color=FAF7F2&title_color=C9A87C&text_color=1A1A1A)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fatemehdev-dev&layout=compact&hide_border=true5&bg_color=FAF7F2&title_color=C9A87C&text_color=1A1A1A)
 
 </div>
 
