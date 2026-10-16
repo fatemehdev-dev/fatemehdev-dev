@@ -12,9 +12,6 @@
 ![Responsive](https://img.shields.io/badge/Responsive-Design-success?style=for-the-badge)
 
 <br>
-
-**Turning ideas into clean, responsive & modern web experiences.** 
-
 </div>
 
 <div align="center">
