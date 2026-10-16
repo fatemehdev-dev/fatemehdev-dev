@@ -17,19 +17,6 @@
 
 </div>
 
-
-
-## About Me
-
-- **Front-End Designer** with 1.5 years of designing
-  
--  Building websites with **HTML, CSS & JavaScript**
-  
--  Currently learning **WordPress & deep JavaScript**
-  
--  My goal: **growing and improving in the web development field**
-
-
 ## My Sample works
 
 ### [Fashion Shop]
