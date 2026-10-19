@@ -1,9 +1,9 @@
 
 <div align="center">
 
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=fatemehdev-dev&show_icons=true=23&theme=default&hide_border=true&bg_color=FAF7F2&title_color=C9A87C&icon_color=C9A87C&text_color=1A1A1A)
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=fatemehdev-dev&show_icons=true=24&theme=default&hide_border=true&bg_color=FAF7F2&title_color=C9A87C&icon_color=C9A87C&text_color=1A1A1A)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fatemehdev-dev&layout=compact&hide_border=true5&bg_color=FAF7F2&title_color=C9A87C&text_color=1A1A1A)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fatemehdev-dev&layout=compact&hide_border=true6&bg_color=FAF7F2&title_color=C9A87C&text_color=1A1A1A)
 
 </div>
 
